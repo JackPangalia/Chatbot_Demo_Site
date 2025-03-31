@@ -3,7 +3,7 @@ const Home = () => {
   return (
     <div className="m-5">
       <h1 className="text-3xl font-light">
-        Blank website for AI chatbot demos.
+        A blank website for AI chatbot demos.
       </h1>
       <div className = 'mt-1'>
         <span className = 'text-zinc-500'>Powered by </span>
